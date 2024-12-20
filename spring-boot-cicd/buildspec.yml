@@ -9,5 +9,5 @@ phases:
       - echo Build complete.
 artifacts:
   files:
-    - spring-boot-cicd/target/spring-boot-cicd.jar
+    - target/spring-boot-cicd.jar
   discard-paths: yes
